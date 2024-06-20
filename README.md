@@ -89,7 +89,7 @@ function fungsigamau(){
        tekskalimatakhir = "Yaudah kalo kamu gamau,<br>biar aku aja yang jadi<br>pacar kamu, hehe 😆❤️";
 }
 
-teksjudulakhir2 = "I Love You RIFDA";
+teksjudulakhir2 = "I Love You Putri";
 tekspalingakhir = "Jangan lupa balas pesan<br>ke WhatsApp aku ya! ✨";
   
 pesanwhatsapp = "Aku mau kok jadi pacar kamu ><";
